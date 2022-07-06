@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcoFGomes
 - 👀 I’m interested in growing as a Data Analyst.
-- 🌱 I’m currently learning some tools needed to achieeve my goal such as SQL, R, Spreadcheats, Tableau...
+- 🌱 I’m currently learning some tools needed to achieve my goal such as SQL, R, Spreadcheats, Tableau...
 - 💞️ I’m looking to collaborate on many projects, but I know it will take a while until I'm ready to do it.
 - 📫 How to reach me ...  Just send me a messaage!
 
